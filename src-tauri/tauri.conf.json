@@ -1,0 +1,31 @@
+{
+  "$schema": "https://schema.tauri.app/config/2",
+  "productName": "SensMatch",
+  "mainBinaryName": "SensMatch",
+  "version": "1.0.0",
+  "identifier": "com.sensmatch.desktop",
+  "build": { "frontendDist": "../ui" },
+  "app": {
+    "withGlobalTauri": true,
+    "windows": [
+      {
+        "label": "main",
+        "title": "SensMatch",
+        "width": 1280,
+        "height": 800,
+        "minWidth": 1100,
+        "minHeight": 700,
+        "decorations": false,
+        "center": true
+      }
+    ],
+    "security": { "csp": null }
+  },
+  "bundle": {
+    "active": true,
+    "targets": ["nsis"],
+    "icon": ["icons/icon.png", "icons/icon.ico"],
+    "shortDescription": "Sensitivity converter and aim test",
+    "longDescription": "Convert mouse sensitivity between games with cm/360, eDPI and monitor distance matching, then verify it with a built-in aim test."
+  }
+}

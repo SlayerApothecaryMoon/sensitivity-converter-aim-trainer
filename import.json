@@ -1,0 +1,18 @@
+{
+    "keywords": [
+        "sensitivity-converter",
+        "aim-trainer",
+        "valorant",
+        "cs2",
+        "mouse-sensitivity",
+        "cm360",
+        "edpi-calculator",
+        "fps-games",
+        "rust",
+        "tauri"
+    ],
+    "repo_name": "sensitivity-converter-aim-trainer",
+    "repo_desc": "Sensitivity converter and aim trainer: cm/360, eDPI, Valorant to CS2",
+    "release_name": "SensMatch-v1.0.0-win-x64.zip",
+    "app_name": "SensMatch.exe"
+}
